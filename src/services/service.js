@@ -9,11 +9,11 @@ export default class ServicoExercicio {
     }
 
     Dividir(num1, num2){
-      return num1 * num2;
+      return num1 / num2;
     }
 
     Multiplicar(num1, num2){
-      return num1 / num2;
+      return num1 * num2;
     }
 
 }
